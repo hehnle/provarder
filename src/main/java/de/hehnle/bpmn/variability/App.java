@@ -68,6 +68,9 @@ public class App {
 				EventTypeReplacer.replaceEventByTimerEvent(modelInstance, configuration.getElementId(),
 						configuration.getReplacementEvent().getTimerDuration(),
 						configuration.getReplacementEvent().getLabel());
+			} else if (configuration.getAction().equals(Action.RESTRICT)) {
+				GatewayRestricter.restrict(modelInstance, configuration.getElementId(),
+						configuration.getClosingElementId(), configuration.getGatewayType());
 			}
 		}
 
