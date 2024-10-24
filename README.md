@@ -9,7 +9,8 @@ Naor, M., Nierstrasz, O., Pandu Rangan, C., Steffen, B., Sudan, M., Terzopoulos,
 Business Process Management Workshops, Lecture Notes in Computer Science,
 vol. 3812, pp. 512–518. Springer Berlin Heidelberg, Berlin, Heidelberg (2006).
 https://doi.org/10.1007/11678564 47
-
+* Gotttschalk, F., van der Aalst, W.M.P., Jansen-Vullers, M.H., La Rosa, M.: Configurable Workflow models. International Journal of Cooperative Information Systems
+17(02), 177–221 (2008). https://doi.org/10.1142/S0218843008001798
 * Hongyan Zhang, Weilun Han, Chun Ouyang: Extending BPMN for Configurable
 Process Modeling. In: Proceedings of the 21st ISPE Inc. International Conference on Concurrent Engineering. pp. 317–330. IOS Press (2014), https://api.
 semanticscholar.org/CorpusID:22527654
